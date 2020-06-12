@@ -16,10 +16,11 @@ PHP + MySQL to create online shopping website
 -	User should be able to update items in the cart (remove items from the cart, update their quantity) or favorites list.
 -	Show the history of purchases or saved lists for the user.
 -	For Admin user(s):
-  - List all items
-  -	Add new item
-  -	Delete item
-  -	Update item
+    - List all items
+    -	Add new item
+    -	Delete item
+    -	Update item
+  
 - Admin user will have the same interface with regular users, except that he/she will be provided extra features (buttons/links) for update and deletion of products/services.
 - While adding items to the system, admin user should be able to upload pictures for the items and while updating items, should be able to change pictures.
 - For delete, soft-delete should be implemented.
